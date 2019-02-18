@@ -1,0 +1,16 @@
+__pycache__
+Python/
+*.pyc
+.idea/
+lin/
+*.js
+*.jpg
+*.jpeg
+*.png
+*.gif
+memes/
+nohup*
+jojos/
+testNetworking/
+*~
+#*
